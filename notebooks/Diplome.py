@@ -51,7 +51,7 @@ print("\n📋 البيانات الأساسية:")
 print(df[['Année', 'Effectif_Supérieur', 'Nouveaux_Diplômés', 
           'Diplomes_Univ', 'Diplomes_Formation_Pro', 'Total_Élèves']].to_string(index=False))
 
-# إحصائيات سريعة
+
 print("\n📈 إحصائيات (2021-2024):")
 print(f"   مجموع الخريجين الجدد: {df['Nouveaux_Diplômés'].sum():,}")
 print(f"   - خريجي الجامعات: {df['Diplomes_Univ'].sum():,.0f}")
