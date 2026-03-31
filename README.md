@@ -51,5 +51,5 @@ L'objectif est de répondre à une question centrale : **l'offre publique de pos
 - **Pandas / NumPy** — nettoyage et transformation des données
 - **Power BI / Looker Studio** — visualisation et tableau de bord interactif
 - **CSV / Excel** — formats d'importation et d'exportation des données
-- **Trello** — gestion des tâches
+- **Trello** — (https://trello.com/b/9BMY6GPY/fill-rouge)
 - **Confluence** — documentation technique
