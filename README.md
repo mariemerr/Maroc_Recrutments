@@ -53,3 +53,7 @@ L'objectif est de répondre à une question centrale : **l'offre publique de pos
 - **CSV / Excel** — formats d'importation et d'exportation des données
 - **Trello** — (https://trello.com/b/9BMY6GPY/fill-rouge)
 - **Confluence** — documentation technique
+=
+- **Trello** — [gestion des tâches](https://trello.com/b/9BMY6GPY/fill-rouge)
+- **Confluence** — [documentation technique](https://meriemerraji01.atlassian.net/wiki/spaces/~71202058f5db5828ac4f028a769ab9c1dc33b1/pages/edit-v2/12124161?draftShareId=1eed6af0-06d9-4f4b-a229-700bccc6c75a)
+
